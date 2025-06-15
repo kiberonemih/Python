@@ -26,7 +26,6 @@ def имя_функции(параметры):
 ```python
 def welcome():
     print("Hello!")
-    return None
 
 welcome()  # Вызов функции
 ```
